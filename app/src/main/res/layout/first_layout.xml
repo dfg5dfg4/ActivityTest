@@ -6,7 +6,8 @@
   <ImageView
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:src="@drawable/logo" />
+      android:src="@drawable/logo"
+      android:background="#00aaff"/>
 <EditText
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -20,11 +21,14 @@
       android:id="@+id/button2"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="登录"/>
+      android:text="登录"
+      android:textColor="#fff"
+      android:background="#5a87e1"/>
   <Button
       android:id="@+id/button1"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="还没有账号？立即注册"/>
+      android:text="还没有账号？立即注册"
+      android:background="#5a87e1"/>
 
 </LinearLayout>
