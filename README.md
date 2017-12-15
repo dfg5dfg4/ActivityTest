@@ -1,0 +1,1 @@
+# ActivityTest使用了线性布局和普通的imageview控件和edittext控件，以及intent
